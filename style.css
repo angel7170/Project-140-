@@ -1,0 +1,43 @@
+body
+{
+   background-size: cover;
+}
+
+.heading{
+    width: 100%;
+    text-align: left;
+}
+
+.heading h3{
+    display: inline;
+    font-size: 25px;
+}
+
+.heading button{
+    float: right;
+}
+
+#game{
+    font-size: 22px;
+    margin-top: 30px;
+}
+
+#restart{
+    font-size: 22px;
+    margin-top: 30px;
+    margin-left: 5px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: black;
+    bottom: 0px;
+    width: 100%;
+    background-color: lightblue;
+    line-height: 3;
+    text-align: center;
+}
+
+canvas{
+   background-color: aqua; 
+}
